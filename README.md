@@ -4,6 +4,12 @@ A hypercasual puzzle game: tap a tray cube, it flies straight up its column and 
 wall. **25 levels** across three worlds (Candy Garden 1–10 · Coral Cove 11–20 · Crystal Cave 21–25), with boosters,
 lessons, a shop, a season board and a lives system.
 
+## Play in the browser (nothing to install)
+
+**https://kalempox.github.io/popchain/**
+
+Chrome, Safari, Edge or Firefox on a desktop or laptop. The first load downloads about 35 MB.
+
 ## Mac
 
 1. Download **[Popchain-Mac.zip](https://github.com/Kalempox/popchain/raw/main/Popchain-Mac.zip)**.
